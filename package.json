@@ -1,0 +1,27 @@
+{
+  "name": "@mrmatt1877/workspace",
+  "version": "1.0.0",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "server.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "async": "^0.2.10",
+    "express": "^3.2.6",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmatt1877/learningnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmatt1877/learningnpm/issues"
+  },
+  "homepage": "https://github.com/mrmatt1877/learningnpm#readme"
+}
